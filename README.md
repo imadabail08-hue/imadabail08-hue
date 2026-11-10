@@ -22,12 +22,13 @@ My engineering work bridges low-level hardware design (**VHDL, FPGA, Automotive 
 
 ## 🌟 Featured Engineering Projects
 
-### 🏥 Physical AI, Medical Robotics & Smart Healthcare Systems
+### 🏥 Physical AI, Medical Robotics & Autonomous Systems
 
 | Project | Tech Stack | Description |
 |:---|:---:|:---|
 | **[HUMA-LOG SURGICAL-VLA](https://github.com/imadabail08-hue/HUMA_LOG_SURGICAL_VLA)** | `React 19` `Three.js` `YOLO26-seg` `FastAPI` `ROS 2` | **Flagship AI Project:** Autonomous surgical kit recognition & 3D Digital Twin platform for mobile AGV humanoid robots in sterile operating rooms. Features 8-class instance segmentation, submillimeter metric localization $[X, Y, Z]$, and closed-loop VLA task planning. |
 | **[Smart_Operating_Room_Environment](https://github.com/imadabail08-hue/Smart_Operating_Room_Environment)** | `ESP32` `C++` `Three.js` `MQTT` `Fusion AI` | **Medical IoT & Digital Twin:** Real-time environmental compliance & predictive analysis platform for operating rooms (Santé 4.0). Multi-sensor telemetry (BME280, HC-SR04, LDR), HVAC servo regulation, HiveMQ WebSockets, and explainable Fusion AI risk scoring. |
+| **[Hexapod_Motion_Digital_Twin](https://github.com/imadabail08-hue/Hexapod_Motion_Digital_Twin)** | `ESP32` `MPU6050` `PySide6` `Three.js` `OpenCV` | **18-DOF Hexapod & Smart Factory Digital Twin:** Bio-inspired 18-DOF walking robot stabilized via 6-axis MPU6050 IMU (50 Hz complementary filter, tripod gait) alongside a smart factory conveyor cell with OpenCV optical inspection & Qt6 desktop telemetry. |
 | **[ros2-academy-j01](https://github.com/imadabail08-hue/ros2-academy-j01)** | `ROS 2` `C++` `Python` `Linux` | Robotics framework foundations: ROS 2 node graphs, publishers/subscribers, custom interfaces, action servers, and TF2 spatial transformations. |
 
 ---
